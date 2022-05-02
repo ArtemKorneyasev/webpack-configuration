@@ -1,2 +1,2 @@
-# webpack-configuration
-helper repository for starting application configuration
+# webpack-app-template
+Заготовка конфигурации для нового приложения
